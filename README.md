@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-
+Data Science and AI/ML enthusiast with experience across predictive modeling, RAG pipelines, and agent orchestration, building systems that are functional and scalable.
 - 🔭 I’m currently working on **Autonomous Multi-Agent Deep Research Systems**.  
 - 👯 I’ve open-sourced a **LangGraph Deep Research Agent workflow** — feel free to explore or contribute if you’re interested in building agentic workflows or research agents.  
 - 🌱 I’m currently learning about **Enterprise grade LLM system architecture** and scalable agent design.  
