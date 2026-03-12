@@ -13,7 +13,7 @@ Data Science and AI/ML enthusiast with experience across Classical Machine Learn
 - 🔭 I’m currently working on **Autonomous Multi-Agent Deep Research Systems**.  
 - 👯 I’ve open-sourced a **LangGraph Deep Research Agent workflow** — feel free to explore or contribute if you’re interested in building agentic workflows or research agents.  
 - 🌱 I’m currently learning about **Enterprise grade LLM system architecture** and scalable agent design.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piyushpriyank/) | [Twitter/X](https://x.com/EsagiYoichi)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piyushpriyank/)
 - ⚡ Fun fact: ....
 
 
